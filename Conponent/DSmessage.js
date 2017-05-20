@@ -36,13 +36,6 @@ class HomeScreen extends React.Component {
 const DSmessage = StackNavigator({
         Home: {screen: HomeScreen},
         Chat: {screen: DSmine},
-    },
-    {
-        initialRouteName: 'Home', // 默认显示界面
-        navigationOptions: {  // 屏幕导航的默认选项, 也可以在组件内用 static navigationOptions 设置(会覆盖此处的设置)
-            title: '头条',
-        },
-
     });
 
 const styles = StyleSheet.create({

@@ -1,0 +1,4 @@
+高考估分选大学  http://data.api.gkcx.eol.cn/soudaxue/v2queryschoolgufen.html?messtype=json&prompt=1&rc=&province=%E6%B9%96%E5%8D%97&type=%E6%96%87%E7%A7%91&page=1&size=10&score=550&schoolprovince=&schoolflag=
+
+
+大学简介以及主页  http://data.api.gkcx.eol.cn/soudaxue/queryschool.html?messtype=json&schooltype=&page=1&size=30&keyWord1=%E6%B1%9F%E8%A5%BF&schoolprop=&schoolflag=&schoolsort=&schoolid=
